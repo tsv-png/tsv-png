@@ -1,6 +1,6 @@
 ### ✽ Thais 
 
-**` (Desenvolvedora/Analise de dados)`**
+**` (Desenvolvedora/Design experiencia do usuário)`**
 ---
 ### Linguagens e Ferramentas
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
