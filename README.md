@@ -22,7 +22,13 @@
 
 <details>
  <summary><h3> Resumo sobre mim</h3></summary>
-Sou desenvolvedora iniciante e universitária cursando Análise e Desenvolvimento de Sistemas, estou no meu terceiro semestre. Minhas principais experiencias na área de tecnologia são como designer de experiencia do usário e desenvolvedora front-end.
+Olá, sou Thais Ventura!
+Tenho 2 anos de experiência nas áreas de desenvolvimento, user interface e user experience. Sou graduanda em Analise e Desenvolvimento de Software.
+
+Tecnologias Front-end que trabalho: HTML5, CSS, JavaScipt, React.JS, Next.JS, Typescript
+Tecnologias Back-end que trabalho: SQL server, SQL lite e MONGODB
+Tecnologias Design que trabalho: Figma, ADOBE XD e Miro
+Metodologias ágeis: lean, scrum e kanban
 
 
 
